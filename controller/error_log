@@ -1,0 +1,69 @@
+[05-Jan-2019 13:13:25 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[05-Jan-2019 13:15:12 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[05-Jan-2019 13:15:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[05-Jan-2019 13:23:27 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:14:44 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:16:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:17:38 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:17:50 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:18:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:22:46 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:24:30 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[10-Jan-2019 11:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ffibd/public_html/appointment/model/Patient.php:191
+Stack trace:
+#0 /home/ffibd/public_html/appointment/controller/loginProcess.php(54): App\Patient->loginCheck()
+#1 {main}
+  thrown in /home/ffibd/public_html/appointment/model/Patient.php on line 191
+[12-Jan-2019 07:30:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Patient.php:191
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(54): App\Patient->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 191
+[12-Jan-2019 07:32:54 America/New_York] PHP Notice:  Undefined index: status in /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php on line 9
+[12-Jan-2019 07:32:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Admin.php:45
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(15): App\Admin->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Admin.php on line 45
+[12-Jan-2019 07:49:43 America/New_York] PHP Notice:  Undefined index: status in /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php on line 9
+[12-Jan-2019 07:49:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Admin.php:45
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(15): App\Admin->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Admin.php on line 45
+[12-Jan-2019 07:49:56 America/New_York] PHP Notice:  Undefined index: status in /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php on line 9
+[12-Jan-2019 07:49:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Admin.php:45
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(15): App\Admin->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Admin.php on line 45
+[12-Jan-2019 07:50:20 America/New_York] PHP Notice:  Undefined index: status in /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php on line 9
+[12-Jan-2019 07:50:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Admin.php:45
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(15): App\Admin->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Admin.php on line 45
+[12-Jan-2019 07:55:18 America/New_York] PHP Notice:  Undefined index: status in /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php on line 9
+[12-Jan-2019 07:55:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Admin.php:45
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(15): App\Admin->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Admin.php on line 45
+[12-Jan-2019 08:05:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Patient.php:191
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(54): App\Patient->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 191
+[13-Jan-2019 05:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/datajobm/datanextbd.com/mapp/model/Patient.php:191
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(54): App\Patient->loginCheck()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 191
+[13-Jan-2019 06:26:41 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Patient::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php on line 52 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Patient.php:19
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/controller/loginProcess.php(52): App\Patient->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 19
+[15-Jan-2019 04:22:57 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 199
+[15-Jan-2019 04:23:03 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 199
+[18-Jan-2019 03:52:24 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 199

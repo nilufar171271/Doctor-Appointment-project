@@ -1,0 +1,341 @@
+[12-Jan-2019 08:06:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:168
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 168
+[12-Jan-2019 08:07:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:168
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 168
+[12-Jan-2019 08:09:38 America/New_York] PHP Fatal error:  Class 'App\Database\Database' not found in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 6
+[12-Jan-2019 08:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:168
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 168
+[12-Jan-2019 08:18:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:168
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 168
+[12-Jan-2019 08:19:57 America/New_York] PHP Notice:  Undefined variable: user in /home/datajobm/datanextbd.com/mapp/model/Database.php on line 22
+[12-Jan-2019 08:19:57 America/New_York] PHP Notice:  Undefined variable: pass in /home/datajobm/datanextbd.com/mapp/model/Database.php on line 22
+[12-Jan-2019 08:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:168
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 168
+[12-Jan-2019 08:21:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:168
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 168
+[12-Jan-2019 08:25:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:171
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 171
+[12-Jan-2019 08:25:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:171
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 171
+[12-Jan-2019 08:26:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:172
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 172
+[12-Jan-2019 08:27:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Specialist.php:39
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Specialist->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Specialist.php on line 39
+[12-Jan-2019 08:28:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Specialist.php:39
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Specialist->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Specialist.php on line 39
+[12-Jan-2019 08:33:04 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:29
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(9): App\Doctor->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 29
+[12-Jan-2019 08:33:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:170
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 170
+[12-Jan-2019 08:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:170
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(10): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 170
+[12-Jan-2019 08:38:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:170
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(11): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 170
+[12-Jan-2019 08:39:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:170
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 170
+[12-Jan-2019 08:40:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:170
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 170
+[12-Jan-2019 09:24:47 America/New_York] PHP Fatal error:  Access level to App\Doctor::$DBH must be public (as in class App\Database) in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 6
+[12-Jan-2019 09:25:15 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Doctor::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 12 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:30
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(12): App\Doctor->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 30
+[12-Jan-2019 09:25:49 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Doctor::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 12 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:30
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(12): App\Doctor->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 30
+[12-Jan-2019 09:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/datajobm/datanextbd.com/mapp/doctor_list.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 12
+[12-Jan-2019 09:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in /home/datajobm/datanextbd.com/mapp/model/Db.php:46
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Db->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Db.php on line 46
+[12-Jan-2019 09:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doc' not found in /home/datajobm/datanextbd.com/mapp/doctor_list.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 14
+[12-Jan-2019 09:46:56 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to App\Doc::__construct() must be an instance of App\PDO, instance of App\Db given, called in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 12 and defined in /home/datajobm/datanextbd.com/mapp/model/Doc.php:11
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(12): App\Doc->__construct(Object(App\Db))
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 11
+[12-Jan-2019 09:54:04 America/New_York] PHP Fatal error:  Access level to App\Specialist::$DBH must be public (as in class App\Database) in /home/datajobm/datanextbd.com/mapp/model/Specialist.php on line 6
+[12-Jan-2019 09:54:26 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:54:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:177
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 177
+[12-Jan-2019 09:54:55 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 64
+[12-Jan-2019 09:54:55 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 64
+[12-Jan-2019 09:55:27 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:55:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:177
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 177
+[12-Jan-2019 09:56:20 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:56:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:174
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 174
+[12-Jan-2019 09:56:33 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:56:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:174
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(13): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 174
+[12-Jan-2019 09:56:54 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:174
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(12): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 174
+[12-Jan-2019 09:59:01 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:59:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:174
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(16): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 174
+[12-Jan-2019 09:59:52 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 32
+[12-Jan-2019 09:59:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:174
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(16): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 174
+[12-Jan-2019 10:00:37 America/New_York] PHP Notice:  Undefined variable: DBH in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 33
+[12-Jan-2019 10:00:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:175
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(16): App\Doctor->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 175
+[12-Jan-2019 10:01:42 America/New_York] PHP Recoverable fatal error:  Object of class App\Db could not be converted to string in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 33
+[12-Jan-2019 10:02:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/datajobm/datanextbd.com/mapp/doctor_list.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 14
+[12-Jan-2019 10:03:38 America/New_York] PHP Recoverable fatal error:  Object of class App\Db could not be converted to string in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 33
+[12-Jan-2019 10:04:06 America/New_York] PHP Recoverable fatal error:  Object of class App\Db could not be converted to string in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 33
+[12-Jan-2019 10:04:28 America/New_York] PHP Recoverable fatal error:  Object of class App\Db could not be converted to string in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 33
+[12-Jan-2019 10:05:43 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:05:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:05:45 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Doctor::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/doctor_details.php on line 7 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:31
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_details.php(7): App\Doctor->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 31
+[12-Jan-2019 10:05:47 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:05:47 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:06:42 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:06:42 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:07:10 America/New_York] PHP Notice:  Undefined variable: pdo in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 179
+[12-Jan-2019 10:07:10 America/New_York] PHP Notice:  Undefined property: App\Doc::$ in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 179
+[12-Jan-2019 10:07:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doc.php:179
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(16): App\Doc->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 179
+[12-Jan-2019 10:09:00 America/New_York] PHP Notice:  Undefined variable: pdo in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 179
+[12-Jan-2019 10:09:00 America/New_York] PHP Notice:  Undefined property: App\Doc::$ in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 179
+[12-Jan-2019 10:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/datajobm/datanextbd.com/mapp/model/Doc.php:179
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor_list.php(16): App\Doc->show()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doc.php on line 179
+[12-Jan-2019 10:09:50 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:09:50 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:11:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctor' not found in /home/datajobm/datanextbd.com/mapp/doctor_list.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 15
+[12-Jan-2019 10:11:25 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[12-Jan-2019 10:11:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 05:50:21 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 05:50:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 05:51:08 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 05:51:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 06:26:30 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 06:26:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 06:28:32 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 06:28:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 06:28:34 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Patient::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 8 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Patient.php:19
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/patient_prescription.php(8): App\Patient->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Patient.php on line 19
+[13-Jan-2019 07:21:20 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 07:21:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 07:21:57 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 07:21:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 08:24:43 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 08:24:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 08:44:39 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 08:44:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[13-Jan-2019 09:04:58 America/New_York] PHP Notice:  Undefined index: role_status in /home/datajobm/datanextbd.com/mapp/patient_prescription_details.php on line 13
+[14-Jan-2019 20:12:58 America/New_York] PHP Notice:  Undefined index: role_status in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 9
+[14-Jan-2019 20:12:58 America/New_York] PHP Notice:  Undefined index: patient_id in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 26
+[14-Jan-2019 20:12:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY id DESC' at line 1 in /home/datajobm/datanextbd.com/mapp/model/Prescription.php:87
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/model/Prescription.php(87): PDOStatement->execute()
+#1 /home/datajobm/datanextbd.com/mapp/patient_prescription.php(27): App\Prescription->ViewForPatient(NULL)
+#2 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Prescription.php on line 87
+[14-Jan-2019 20:53:54 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[14-Jan-2019 20:53:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[14-Jan-2019 21:04:08 America/New_York] PHP Notice:  Undefined index: role_status in /home/datajobm/datanextbd.com/mapp/approved_appointment.php on line 8
+[14-Jan-2019 21:04:08 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND appointment.status=1 ORDER BY appointment.date ASC' at line 1 in /home/datajobm/datanextbd.com/mapp/model/Appointment.php:81
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/model/Appointment.php(81): PDOStatement->execute()
+#1 /home/datajobm/datanextbd.com/mapp/approved_appointment.php(27): App\Appointment->showApproved()
+#2 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Appointment.php on line 81
+[15-Jan-2019 04:23:10 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:23:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:33:46 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:33:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:50:59 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:50:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:51:13 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:51:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:51:52 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:51:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:52:06 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 04:52:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 06:10:38 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 06:10:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 06:11:20 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 06:11:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 07:17:52 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 07:17:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 07:45:36 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 07:45:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 07:51:30 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 07:51:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:26:32 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:26:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:26:36 America/New_York] PHP Notice:  Undefined index: role_status in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 9
+[15-Jan-2019 10:26:36 America/New_York] PHP Notice:  Undefined index: patient_id in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 26
+[15-Jan-2019 10:26:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY id DESC' at line 1 in /home/datajobm/datanextbd.com/mapp/model/Prescription.php:87
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/model/Prescription.php(87): PDOStatement->execute()
+#1 /home/datajobm/datanextbd.com/mapp/patient_prescription.php(27): App\Prescription->ViewForPatient(NULL)
+#2 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Prescription.php on line 87
+[15-Jan-2019 10:39:33 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:39:33 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:50:30 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:50:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:52:13 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[15-Jan-2019 10:52:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[16-Jan-2019 06:57:31 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[16-Jan-2019 06:57:31 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[16-Jan-2019 06:57:48 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[16-Jan-2019 06:57:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 00:40:15 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 00:40:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:21:12 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:21:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:21:29 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:21:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:22:02 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:22:02 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:34:55 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:34:55 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:35:19 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:35:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:35:30 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:35:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:35:54 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:35:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:36:06 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:36:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:36:10 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[17-Jan-2019 02:36:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 01:54:36 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 01:54:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 03:50:08 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 03:50:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 04:09:34 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 04:09:34 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 04:12:15 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 04:12:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 04:26:10 America/New_York] PHP Notice:  Undefined index: role_status in /home/datajobm/datanextbd.com/mapp/approved_appointment.php on line 8
+[19-Jan-2019 04:26:10 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND appointment.status=1 ORDER BY appointment.date ASC' at line 1 in /home/datajobm/datanextbd.com/mapp/model/Appointment.php:81
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/model/Appointment.php(81): PDOStatement->execute()
+#1 /home/datajobm/datanextbd.com/mapp/approved_appointment.php(27): App\Appointment->showApproved()
+#2 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Appointment.php on line 81
+[19-Jan-2019 05:38:49 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 05:38:49 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 05:39:23 America/New_York] PHP Notice:  Undefined variable: allSpeciality in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 05:39:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 67
+[19-Jan-2019 05:41:58 America/New_York] PHP Notice:  Undefined index: role_status in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 9
+[19-Jan-2019 05:41:58 America/New_York] PHP Notice:  Undefined index: patient_id in /home/datajobm/datanextbd.com/mapp/patient_prescription.php on line 26
+[19-Jan-2019 05:41:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY id DESC' at line 1 in /home/datajobm/datanextbd.com/mapp/model/Prescription.php:87
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/model/Prescription.php(87): PDOStatement->execute()
+#1 /home/datajobm/datanextbd.com/mapp/patient_prescription.php(27): App\Prescription->ViewForPatient(NULL)
+#2 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Prescription.php on line 87
+[19-Jan-2019 05:42:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Specialist' not found in /home/datajobm/datanextbd.com/mapp/doctor_list.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/doctor_list.php on line 19

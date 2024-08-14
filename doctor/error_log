@@ -1,0 +1,17 @@
+[13-Jan-2019 07:15:49 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Doctor::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/doctor/index.php on line 8 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:31
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor/index.php(8): App\Doctor->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 31
+[13-Jan-2019 07:17:16 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Doctor::__construct(), 0 passed in /home/datajobm/datanextbd.com/mapp/doctor/index.php on line 9 and exactly 1 expected in /home/datajobm/datanextbd.com/mapp/model/Doctor.php:31
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/doctor/index.php(9): App\Doctor->__construct()
+#1 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Doctor.php on line 31
+[13-Jan-2019 07:52:25 America/New_York] PHP Notice:  Undefined index: doctor_id in /home/datajobm/datanextbd.com/mapp/doctor/create_prescription.php on line 26
+[13-Jan-2019 07:52:25 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND patient.id=appointment.patient_id' at line 1 in /home/datajobm/datanextbd.com/mapp/model/Appointment.php:97
+Stack trace:
+#0 /home/datajobm/datanextbd.com/mapp/model/Appointment.php(97): PDOStatement->execute()
+#1 /home/datajobm/datanextbd.com/mapp/doctor/create_prescription.php(26): App\Appointment->showforPrescription(NULL)
+#2 {main}
+  thrown in /home/datajobm/datanextbd.com/mapp/model/Appointment.php on line 97
